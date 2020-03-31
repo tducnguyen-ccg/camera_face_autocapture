@@ -1,4 +1,4 @@
-# camera_face_autocapture
+# Camera face auto-capture
 The source code for auto capture image from motion detection
 
 ## To do works:
